@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 640 160">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff6b6b"/>
+      <stop offset="1" stop-color="#ffb86b"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="14" fill="transparent"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="64" fill="url(#g)">Viki</text>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="18" fill="#a8b3bd">— streaming prototype</text>
+</svg>
